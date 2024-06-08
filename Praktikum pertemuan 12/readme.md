@@ -5,85 +5,113 @@
 # Pertanyaan 1 :
 > Himpunlah screenshot sintaksis SQL terkait hasil SELECT pada saat Praktikum
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/36d03d0f-6e98-4302-bc3e-ce355eb2c75d)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/37cb9df6-c682-45cf-bd52-f707177c4f5d)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/331f96f3-402e-4246-a07e-5daa7e1c9b20)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/eed8d274-a984-45cb-9d13-483bf5689551)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/271a8494-2679-4afc-9649-2d9aabb96571)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/a1867a27-13cb-4728-9b6c-049afb9025a2)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/833ec540-bc88-4989-9e6d-94836171aa3a)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/7f61df76-d19b-4deb-8efe-c3715aa38ebc)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/a48114da-0210-405d-ba0f-d6b26f7225a1)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/fc0c4f05-5368-49a9-aae8-255136dce353)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/8f404998-c188-4702-b86c-9d1be84a4ffc)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/6fe43628-d743-4ca4-b800-db49298553df)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/a8dbcf82-3bad-4f25-b849-bab85df91cc1)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/fa1926eb-a914-44f5-a4ed-7a652d2e4d1e)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/6115e078-c38d-4982-a729-3f6a28f5d6b1)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/fa80729b-79dc-44d2-9c8d-280c11ccdbd1)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/4c479709-f7e2-4709-a0ad-4bb07ff6b200)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/ffcbfeed-63ea-4f64-9da5-4d20b9f51d1e)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/1c25b638-91dd-4af9-8b0d-c7667b648020)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/baa7420b-54d4-4a1d-bb3c-e16376e0a0b4)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/2efd894a-5e45-45cb-a3e8-077fe508d143)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/702cffe6-0625-4913-8bfa-0358cad843b1)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/e590d3ae-c6c2-4425-bdf2-9eeedf6d18eb)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/08eb6255-2a6e-4f8f-88ac-e4fc5e216e01)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/3d9b0073-6244-4bb9-80e4-1af3a110a3b3)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/942dae27-80a8-490c-a260-141cc9285414)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/204e219f-e9fd-4e43-b798-d1484164bcc7)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/02e14d1c-46c6-4b31-bef7-40d7a03e5b8b)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/d555deca-afef-463c-ab7f-5bbae00d1596)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/57612a5a-5fb8-4336-b918-96991ba36103)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/2f552021-4ea1-4d67-9b0c-686e75cc261c)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/fc2c4777-4a54-4f82-aa78-1594fda57353)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/f0a04634-d37f-42d1-bf8b-713d261f38ac)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/bcefc4de-d702-4683-9ce7-a2714adb3bc1)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/5806e9ed-b057-4a88-9db1-c90b86d56767)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/c7760558-4647-4021-90d0-c728065c45e1)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/fa79bed8-6f4d-437e-aa10-d52565aaf32b)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/3d9a45c7-a92b-4693-b915-68d7317aca7e)
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/acea9251-df4c-49e3-88bf-da7cfee09822)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/f75cb57c-1145-474b-a894-a7a8125271d0)
+
+
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/709967ce-fe90-432b-8e05-f92ec128dbcd)
+
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/8ba3cd57-9376-4ae0-85f7-45d902c95181)
+
+
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/23ec45cf-1ef2-435b-9fc7-50741822b892)
+
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/a0664d2d-9260-4b69-ae47-eed560d3ea8d)
+
+
+
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/b046e14c-d53d-4a91-828b-c2eb204bd57d)
+
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/393b2137-f528-4e1c-bb2c-fa2c32e3d8f6)
+
+
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/66aff932-4e60-44f9-9979-d74d9a9200ea)
+
+
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/bec1df86-20b3-461c-a66c-2245a52adc33)
+
+
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/09065a11-c59c-4ba5-9af9-6d0b3792a6be)
+
+
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/475a08fb-d402-49e5-a87c-4d8de797e090)
+
+
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/0f1c1424-9284-4e4a-942e-15b2bbdd6366)
+
+
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/4a5615c3-e4e4-434d-ad60-af13b419e029)
+
 
 
 # Pertanyaan 2 :
 
 > Bagaimana sintaksis untuk menampilkan semua kolom jadwal pada hari kamis yang dimulai pada pukul 08:40 ? Tunjukkan outputnya!
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/b08272cd-0339-448d-8f23-e5eefc160edc)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/b6d329e7-d54e-47fd-a7f1-e93851804722)
+
 
 
 # Pertanyaan 3 :
 
 > Berapakah jumlah dosen yang mengajar pada hari selasa! Tunjukkan sintaksis dan outputnya!
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/5eeb16f4-470a-4ad1-9ca4-e7846a8365bc)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/a3881b8e-8092-4e09-9f3f-2936c1b5efbd)
+
 
 > Kemudian tampilkan list semua kode dosen yang sesuai dengan kondisi tersebut! Tunjukkan sintaksis dan outputnya!
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/551217d3-1ce3-4a22-b766-5d3c8552bf72)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/c97b81f6-5d3f-4160-96a4-6860fe5d0133)
+
 
 # Pertanyaan 4 :
 
 > Tampilkan kode dosen yang mengajar pada hari kamis dari tabel jadwal yang nama depanya di awali dengan huruf A. gunakan operasi intersect! Tunjukkan sintaksis dan output dari pencarian tersebut.
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/6e1b5a49-a44c-4197-864b-90b574c938b8)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/32844259-058c-44b0-ac5b-0d78c3ef7802)
+
 
 
 # Pertanyaan 5 :
 
 > Tampilkan kode_ruang tertentu pada hari tertentu dengan diurutkan berdasarkan dengan kode jam yang ter awal. disini saya memilih hari rabu dan ruang teori 3
 
-![image](https://github.com/rafaxputra/learn_phpmyadmin/assets/75997309/e25f5f13-5d86-4da0-b248-335ebe71ebe1)
+![image](https://github.com/purinahdatul/Learn-MyPHP-Admin/assets/160198903/8503efc0-5544-4597-af50-b65dbc7adb7c)
+
